@@ -27,8 +27,6 @@ def get(k: str) -> str:
         return None
 
 
-
-
 keys = [""] * 10
 values = keys.copy()
 
